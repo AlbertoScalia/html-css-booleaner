@@ -7,8 +7,7 @@
 header{
     background-color: #4ea0ff;
     background-image: url(../img/pattern.png);
-    background-size: contain;
-    background-repeat: repeat;
+    background-size: 27%;
     height: 100px;
     margin: 0;
 }
@@ -19,7 +18,7 @@ header img{
 }
 
 main, footer{
-    margin: 20px 5px;
+    margin: 20px 10px;
 }
 
 h1{
@@ -56,7 +55,7 @@ h3, #sottotitoli{
     color: black;
 }
 
-p {
+p, ul {
     margin:20px 0px;
 }
 

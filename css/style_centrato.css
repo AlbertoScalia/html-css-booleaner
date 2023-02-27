@@ -9,15 +9,17 @@ header{
     background-image: url(../img/pattern.png);
     background-size: 27%;
     height: 100px;
+    margin-bottom: 20px;
 }
 
 header img{
     width: 180px;
-    padding: 45px 10px 0px 10px;
+    padding: 45px 0px 0px 230px;
 }
 
 main, footer{
-    margin: 20px 10px;
+    margin: 0 auto;
+    width: 1050px;
 }
 
 h1{
@@ -91,6 +93,7 @@ th {
 .fondo_2{
     background-image: url(../img/graph.jpg);
     background-size: cover;
+    margin-bottom: 20px;
 }
 
 .testo_fondo{
